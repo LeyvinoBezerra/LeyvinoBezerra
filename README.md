@@ -33,6 +33,10 @@
 
 
 
+
+
+
+
 **Academic education**
  
  Ciência da Computação  /  Universidade Federal Rural Do Semi-Árido - UFERSA 
