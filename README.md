@@ -59,6 +59,6 @@
 
 **Academic education:**
  
- Bacharel em Ciência da Computação  /  Universidade Federal Rural Do Semi-Árido - UFERSA <&nbsp>
+ Bacharel em Ciência da Computação  /  Universidade Federal Rural Do Semi-Árido - UFERSA &nbsp
  Técnico em Informática /  Instituto Federal Do Ceará - IFCE 
 
