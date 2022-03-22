@@ -37,12 +37,12 @@
 
 
 
-**Academic education**
+**Academic education:**
  
  Ciência da Computação  /  Universidade Federal Rural Do Semi-Árido - UFERSA 
  Técnico em Informática /  Instituto Federal Do Ceará - IFCE 
 
-**Languages and Data**
+**Languages and Data:**
 
 <img height="56" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Java"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/javascript-23-1174949.png" alt="JavaScript"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="TypeScript"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/html-5-1-1175208.png" alt="Html5"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/css3-11-1175239.png" alt="Css3"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/mysql-4-226026.png" alt="Mysql"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-5-569524.png" alt="PostGresql"/> 
 
