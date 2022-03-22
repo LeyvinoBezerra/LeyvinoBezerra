@@ -37,10 +37,6 @@
 
 
 
-**Academic education:**
- 
- Ciência da Computação  /  Universidade Federal Rural Do Semi-Árido - UFERSA 
- Técnico em Informática /  Instituto Federal Do Ceará - IFCE 
 
 **Languages and Data:**
 
@@ -58,3 +54,11 @@
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
+
+
+
+**Academic education:**
+ 
+ Ciência da Computação  /  Universidade Federal Rural Do Semi-Árido - UFERSA 
+ Técnico em Informática /  Instituto Federal Do Ceará - IFCE 
+
