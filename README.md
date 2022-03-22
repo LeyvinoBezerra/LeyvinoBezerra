@@ -29,7 +29,11 @@
 
 </p>  
 
- **Academic education**
+
+
+
+
+**Academic education**
  
  Ciência da Computação  /  Universidade Federal Rural Do Semi-Árido - UFERSA 
  Técnico em Informática /  Instituto Federal Do Ceará - IFCE 
