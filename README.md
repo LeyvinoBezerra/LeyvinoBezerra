@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="https://mail.google.com/" alt="Gmail" target="_blank">
+  <a href="https://mail.google.com/mail/u/1/#inbox" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=leyvinobezerra.develop@gmail.com" style="max-width:100%;"/></a>
 
   <a href="https://www.linkedin.com/in/leyvino-bezerra-3970a889/" alt="Linkedin" target="_blank">
