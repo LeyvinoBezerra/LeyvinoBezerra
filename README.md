@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  <a href="Leyvino:leyvinobezerra.develop@gmail.com.br" alt="Gmail" target="_blank">
+  <a href="leyvinobezerra.develop@gmail.com.br" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=leyvinobezerra.develop@gmail.com" style="max-width:100%;"/></a>
 
   <a href="https://www.linkedin.com/in/leyvino-bezerra-3970a889/" alt="Linkedin" target="_blank">
@@ -28,15 +28,6 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://web.whatsapp.com/send?phone=5547984384086/" style="max-width:100%;"></a>
 
 </p>  
-
-
-
-
-
-
-
-
-
 
 **Languages and Data:**
 
@@ -59,6 +50,6 @@
 
 **Academic education:**
  
- Bacharel em Ciência da Computação  /  Universidade Federal Rural Do Semi-Árido - UFERSA / Mossoró - RN <br/> 
- Técnico em Informática /  Instituto Federal Do Ceará - IFCE / Aracati - CE
+ Bacharel em Ciência da Computação  -  Universidade Federal Rural Do Semi-Árido - UFERSA / Mossoró - RN <br/> 
+ Técnico em Informática -  Instituto Federal Do Ceará - IFCE / Aracati - CE
 
