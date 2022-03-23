@@ -4,7 +4,7 @@
 <p align="left"> 
      Hi there, I'm Leyva 👋
 
-  - 🌱 at the moment I'm evolved a lot
+  - 🌱 I'm evolved a lot at the moment
   - 👯 I’m looking to collaborate with other content creators
 
 </p>
