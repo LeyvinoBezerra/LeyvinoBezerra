@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="Leyvino:leyvinobezerra.develop@gmail.com.br" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=Matheusp-2014@Outlook.com.br" style="max-width:100%;"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=leyvinobezerra.develop@gmail.com" style="max-width:100%;"/></a>
 
   <a href="https://www.linkedin.com/in/leyvino-bezerra-3970a889/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/inhttps://www.linkedin.com/in/leyvino-bezerra-3970a889/" style="max-width:100%;" /></a>
