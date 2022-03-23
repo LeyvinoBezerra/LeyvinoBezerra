@@ -50,6 +50,6 @@
 
 **Academic education:**
  
- Bacharel em Ciência da Computação  -  Universidade Federal Rural Do Semi-Árido - UFERSA / Mossoró - RN <br/> 
- Técnico em Informática -  Instituto Federal Do Ceará - IFCE / Aracati - CE
+ **Bacharel em Ciência da Computação  -  Universidade Federal Rural Do Semi-Árido - UFERSA / Mossoró - RN** <br/> 
+ **Técnico em Informática -  Instituto Federal Do Ceará - IFCE / Aracati - CE**
 
