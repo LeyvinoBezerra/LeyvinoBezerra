@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>Java, JavaScript, C#, C++, C</strong>
+  🦄 Languages: <strong>Java, JavaScript,PHP, C#, C++, C</strong>
 </p>
 
 <p align="left">
@@ -50,6 +50,6 @@
 
 **Academic education:**
  
- **Bacharel em Ciência da Computação  -  Universidade Federal Rural Do Semi-Árido - UFERSA / Mossoró - RN** <br/> 
- **Técnico em Informática -  Instituto Federal Do Ceará - IFCE / Aracati - CE**
+ **Bachelor in Computer Science - Federal Rural University of the Semi-Arid - UFERSA / Mossoró - RN** <br/> 
+ **Computer Technician - Federal Institute of Ceará - IFCE / Aracati - CE**
 
