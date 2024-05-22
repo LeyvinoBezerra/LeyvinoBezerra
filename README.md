@@ -10,10 +10,6 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>Java, JavaScript, PHP, C#, C++, C</strong>
-</p>
-
-<p align="left">
   Connect with me:
 </p>
 
