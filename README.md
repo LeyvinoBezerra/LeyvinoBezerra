@@ -42,6 +42,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
 <code><img height="32" src="https://w7.pngwing.com/pngs/976/583/png-transparent-kubernetes-docker-software-deployment-orchestration-rancher-labs-engine-blue-logo-symmetry-thumbnail.png" alt="kubernetes"/></code>
+<code><img height="32" src="https://images.vexels.com/media/users/3/140692/isolated/svg/72d1f12edf758d24f5b6db73bac4f297.svg" alt="Linux"/></code>
 
 
 
