@@ -33,7 +33,7 @@
 ### Tools, Libraries, Runtime and Frameworks:
 
 
-<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intelijeiidea"/> <img height="48" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm"/><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Spring_Framework_Logo_2018.svg" alt="Spring"/> <img height="48" src="https://e7.pngegg.com/pngimages/195/304/png-clipart-visual-studio-code-logo-thumbnail-tech-companies-thumbnail.png" alt="vscode"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" alt="NodeJS"/> <img height="48" src="https://i0.wp.com/dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2023/09/unity-2-scaled.jpg?fit=960%2C540&ssl=1&resize=1280%2C720" alt="unity"/>
+<img height="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intelijeiidea"/> <img height="48" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm"/> <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Spring_Framework_Logo_2018.svg" alt="Spring"/> <img height="48" src="https://e7.pngegg.com/pngimages/195/304/png-clipart-visual-studio-code-logo-thumbnail-tech-companies-thumbnail.png" alt="vscode"/> <img height="48" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" alt="NodeJS"/> <img height="48" src="https://i0.wp.com/dropsdejogos.uai.com.br/wp-content/uploads/sites/10/2023/09/unity-2-scaled.jpg?fit=960%2C540&ssl=1&resize=1280%2C720" alt="unity"/>
 
 
 **DevOps**
